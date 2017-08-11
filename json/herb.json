@@ -1,0 +1,15 @@
+{
+    "herbavores": [
+        {
+            "name": "anteater"
+        },
+
+        {
+            "name": "cow"
+        },
+
+        {
+            "name": "dove"
+        }
+    ]
+}

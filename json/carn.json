@@ -1,0 +1,15 @@
+{
+    "carnivores": [
+        {
+            "name": "aligator"
+        },
+
+        {
+            "name": "panther"
+        },
+
+        {
+            "name": "eagle"
+        }
+    ]
+}
